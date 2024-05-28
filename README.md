@@ -92,3 +92,48 @@ We would like to visualize various aspects of our cricket data to gain insights 
 
 5. <ins>*Specialist Fast Bowlers*</ins> - Created a matrix for their name, team, batting style, innings batted, runs, balls faced, batting strike rate, batting average, batting position, boundary %. An area chart showing their performances like batting average, average balls faced, strike rate, boundary % in various matches. Also a scatter plot for tracking the top 5 players with taking strike rate and batting average into account.
 
+## Screenshots :-
+
+#### <ins>*Power Hitters or Openers with no selection*</ins>
+
+![Power Hitters or Openers with no selection](https://github.com/Aashay30/Cricket_Analysis/blob/main/Power%20Hitters%20or%20Openers%20with%20no%20selection.png)
+
+#### <ins>*Power Hitters or Openers with selection*</ins>
+
+![Power Hitters or Openers with selection](https://github.com/Aashay30/Cricket_Analysis/blob/main/Power%20Hitters%20or%20Openers%20with%20selection.png)
+
+#### <ins>*Tool Tip Preveiw*</ins>
+
+![Tool Tip Preveiw](https://github.com/Aashay30/Cricket_Analysis/blob/main/Tool%20Tip%20preveiw.png)
+
+#### <ins>*Anchors or Middle Order*</ins>
+
+![Anchors or Middle Order](https://github.com/Aashay30/Cricket_Analysis/blob/main/Anchors%20or%20Middle%20Order.png)
+
+#### <ins>*Finisher or Lower Order Anchors*</ins>
+
+![Finisher or Lower Order Anchors](https://github.com/Aashay30/Cricket_Analysis/blob/main/Finisher%20or%20Lower%20Order%20Anchor.png)
+
+#### <ins>*All Rounders or Lower Middle Order*</ins>
+
+![All Rounders or Lower Middle Order](https://github.com/Aashay30/Cricket_Analysis/blob/main/All%20Rounder%20or%20Lower%20Middle%20Order.png)
+
+#### <ins>*Specialist Fast Bowlers or Tail End*</ins>
+
+![Specialist Fast Bowlers or Tail End](https://github.com/Aashay30/Cricket_Analysis/blob/main/Specialist%20Fast%20Bowlers%20or%20Tail%20End.png)
+
+#### <ins>*Final 11*</ins>
+
+![Final 11](https://github.com/Aashay30/Cricket_Analysis/blob/main/Final%2011.png)
+
+#### <ins>*Tool Tip for Power Hitters*</ins>
+
+![Tool Tip for Power Hitters](https://github.com/Aashay30/Cricket_Analysis/blob/main/Tool%20Tip%20for%20Power%20Hitters.png)
+
+#### <ins>*Tool Tip for All Rounders*</ins>
+
+![Tool Tip for All Rounders](https://github.com/Aashay30/Cricket_Analysis/blob/main/Tool%20Tip%20for%20All%20Rounders.png)
+
+#### <ins>*Tool Tip for Bowlers*</ins>
+
+![Tool Tip for Bowlers](https://github.com/Aashay30/Cricket_Analysis/blob/main/Tool%20Tip%20for%20Bowlers.png)
