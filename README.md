@@ -1,6 +1,8 @@
 * Title :-        **Cricket Analysis**
 * Created by :-   Aashay Tamrakar
 * Tool used:-     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![PDF Link](https://github.com/Aashay30/Cricket_Analysis/blob/main/Cricket_Analysis_Dashboard.pdf)
   
 ## Objective 🎯
 The goal of this project is to analysis the players data, extract necessary information about players based on a combination of their strengths for an unbeatable team and make a dashboard to review the performance of the team.
